@@ -1,0 +1,9 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\bin\Debug\notePade.exe.config
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\bin\Debug\notePade.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\bin\Debug\notePade.pdb
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.csprojResolveAssemblyReference.cache
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.Form1.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.Properties.Resources.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.csproj.GenerateResource.Cache
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\notePade\notePade\obj\Debug\notePade.pdb
